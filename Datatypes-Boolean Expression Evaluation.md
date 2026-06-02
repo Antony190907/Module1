@@ -32,5 +32,4 @@ print("d:", d)
 ## Result
 Thus the program has been successfully executed
 
-## Result
-Thus the program has been successfully executed
+
